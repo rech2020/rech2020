@@ -1,4 +1,5 @@
-* she/her
+* he/him
+* kinda stupid
 * idk what to add here I don't use GitHub very often rn
 <!---
 rech2020/rech2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
